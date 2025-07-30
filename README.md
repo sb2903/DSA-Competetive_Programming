@@ -52,8 +52,8 @@ DSA AND CP/
 
 | Platform    | Problems Solved |
 |-------------|-----------------|
-| LeetCode    | 60 (add count)  |
-| Codeforces  | 10 (add count)  |
+| LeetCode    |      60         |
+| Codeforces  |      10         |
 
 I will daily commit Files i can't commit these many solution at once..
 
